@@ -2,7 +2,6 @@
 
 An end-to-end machine learning system that predicts consumer creditworthiness and serves those predictions through an interactive web application. The project covers the full pipeline — data cleaning, feature engineering, model selection, hyperparameter tuning, and deployment behind a FastAPI application with user authentication and persistent storage.
 
-**Repository:** https://github.com/dingyuquan/credit_score_system
 
 ---
 
